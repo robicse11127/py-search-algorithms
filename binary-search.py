@@ -1,0 +1,1 @@
+# For binary search your array needs to be sorted out
